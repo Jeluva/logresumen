@@ -1,0 +1,8 @@
+203.0.113.5 - - [10/Oct/2025:13:55:36 +0000] "GET /index.html HTTP/1.1" 200 2326 "-" "Mozilla/5.0"
+203.0.113.5 - - [10/Oct/2025:13:55:40 +0000] "GET /style.css HTTP/1.1" 200 840 "-" "Mozilla/5.0"
+198.51.100.7 - - [10/Oct/2025:13:58:02 +0000] "GET /api/users?page=2 HTTP/1.1" 200 5120 "-" "curl/8.0"
+198.51.100.7 - - [10/Oct/2025:14:02:11 +0000] "GET /api/users?page=3 HTTP/1.1" 200 4900 "-" "curl/8.0"
+192.0.2.44 - - [10/Oct/2025:14:03:00 +0000] "GET /admin HTTP/1.1" 404 153 "-" "Nikto"
+192.0.2.44 - - [10/Oct/2025:14:03:01 +0000] "GET /wp-login.php HTTP/1.1" 404 153 "-" "Nikto"
+203.0.113.9 - - [10/Oct/2025:14:10:45 +0000] "POST /api/login HTTP/1.1" 500 0 "-" "Mozilla/5.0"
+linea rota que no es un log
